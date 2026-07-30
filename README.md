@@ -40,7 +40,9 @@ The dataset includes:
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here.)
+## 📷 Dashboard Preview
+
+![Dashboard](Dashboard.jpeg)
 
 ## 📁 Files
 - Walmart_Dashboard.pbix
